@@ -2,6 +2,7 @@
 This is an open-source personal information website, mainly for studying coding skills.
 
 ## Project Structure
+```
 project-root/
 ├── backend/                 # 后端(Spring Boot)代码
 │   ├── src/
@@ -43,3 +44,4 @@ project-root/
 ├── .gitignore               # Git 忽略规则
 ├── README.md                # 项目说明文件
 └── docker-compose.yml       # 可选：Docker 容器编排文件（整合 MySQL + Spring Boot + React）
+```
